@@ -1,3 +1,2 @@
-# this is cool
-this is a cool repo for no reason.
-# play mods
+# this is a mod download page
+download mod .jar files or download source code!
