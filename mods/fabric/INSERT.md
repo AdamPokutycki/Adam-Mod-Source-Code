@@ -1,2 +1,2 @@
-# insert fabric mods in here
+# insert Fabric mods in here
 .jar
